@@ -11,6 +11,7 @@ The xfce4-genmon-plugin (GenMon) provides a plugin for xfce4-panel that cyclical
 
 ### <img align="left" height="40px" alt="nGPU demo gif" src="/docs/xfce4-genmon-nvidia/demo.gif" /><p>nGPU Temperature (Colorized) \[xfce4-genmon-nvidia\]</p>
 <br>
+
 This script retrieves the current temperature of the GPU using the NVIDIA `nvidia-smi` command and calculates an interpolated color based on the temperature range. The color is then used to represent the temperature visually in the progress bar in the panel.
 
 The script allows for the customization of temperature thresholds and color values, enabling users to adjust the visual representation according to their preferences. The target, slowdown, shutdown, and max temperature threshold values are retrieved directly from the GPU via `nvidia-smi`.
