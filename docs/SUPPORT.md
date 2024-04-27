@@ -8,7 +8,7 @@ Before seeking support, please take a look at our documentation in the repositor
 
 ## GitHub Issues
 
-If you encounter a bug, have a feature request, or want to report an issue related to the project itself, please [open an issue](/issues) on our GitHub repository. Be sure to provide as much detail as possible to help us understand and resolve the issue.
+If you encounter a bug, have a feature request, or want to report an issue related to the project itself, please [open an issue](/../../issues) on our GitHub repository. Be sure to provide as much detail as possible to help us understand and resolve the issue.
 
 ## Discord Community
 
@@ -20,7 +20,7 @@ For real-time discussions, support, and announcements, we invite you to join our
 
 If you prefer direct communication or have sensitive matters to discuss, you can reach out to us via email at [code@fritztech.net](mailto:code@fritztech.net).
 
-For security related matters, please see our [Security Policy](/?tab=security-ov-file#).
+For security related matters, please see our [Security Policy](/../../?tab=security-ov-file#).
 
 ## Contributing
 
