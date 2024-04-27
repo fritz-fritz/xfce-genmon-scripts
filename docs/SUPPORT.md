@@ -20,7 +20,7 @@ For real-time discussions, support, and announcements, we invite you to join our
 
 If you prefer direct communication or have sensitive matters to discuss, you can reach out to us via email at [code@fritztech.net](mailto:code@fritztech.net).
 
-For security related matters, please see our [Security Policy](/../../?tab=security-ov-file#).
+For security related matters, please see our [Security Policy](/../..?tab=security-ov-file#).
 
 ## Contributing
 
