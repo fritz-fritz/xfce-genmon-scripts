@@ -11,7 +11,7 @@ The script allows for the customization of temperature thresholds and color valu
 > Version [4.2.0](https://gitlab.xfce.org/panel-plugins/xfce4-genmon-plugin/-/commit/8e9f0b4341cac7b0d128c25a53872d47eab015dc) introduced `<css>` tag support with commit [b631ca03](https://gitlab.xfce.org/panel-plugins/xfce4-genmon-plugin/-/commit/b631ca039e9257b745f9e388eead32689fdacd7c) which merged [PR4](https://gitlab.xfce.org/panel-plugins/xfce4-genmon-plugin/-/merge_requests/4). This was crucial for the scripts below and hence you should ensure your installed version is **at least version 4.2.0**. At time of publishing, Debian is known to be out of date due to an upstream packaging hold and [should be built from source](https://salsa.debian.org/xfce-team/goodies/xfce4-genmon-plugin).
 
 ## Demo
-<img width="80%" align="center" alt="GIF showing installation and use" src="/docs/xfce4-genmon-nvidia/demo_full.gif" />
+<img width="100%" align="center" alt="GIF showing installation and use" src="/docs/xfce4-genmon-nvidia/demo_full.gif" />
 
 ## Installing
 1. Clone this repo or [download the script directly](https://raw.githubusercontent.com/fritz-fritz/xfce-genmon-scripts/main/xfce4-genmon-nvidia/xfce4-genmon-nvidia.sh).
@@ -26,7 +26,7 @@ The script allows for the customization of temperature thresholds and color valu
 > You can call the script directly prior to adding it to the panel to verify it works.
 > Try `xfce4-genmon-nvidia.sh --help` for more information
 
-<img width="80%" align="center" alt="Terminal usage and installation GIF" src="/docs/xfce4-genmon-nvidia/demo_terminal.gif" />
+<img width="100%" align="center" alt="Terminal usage and installation GIF" src="/docs/xfce4-genmon-nvidia/demo_terminal.gif" />
 
 ## Dependencies
 > [!WARNING]
